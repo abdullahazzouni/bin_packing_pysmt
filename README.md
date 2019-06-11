@@ -9,7 +9,9 @@ NP-hard problem. Then, reducing this problem to a Satisfiable format, an impleme
 was built using PySMT (https://github.com/pysmt/pysmt).
 
 The input is a csv file of the following format:
+
 line 1: dummy_text, width, length
+
 line 2 onwards: request_id, width, length
 
 There are two versions of the program: one that can generate real numbers for the 
