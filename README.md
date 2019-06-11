@@ -18,3 +18,6 @@ There are two versions of the program: one that can generate real numbers for th
 locations of each request and one that only outputs integers. They are both identical.
 I should have probably created one program with a possibility of entering the number
 format as an argument.
+
+To run the script, either provide the input data file as an arguement or save a file 
+called "erp_reqs.csv" in the same folder where the script is running.
